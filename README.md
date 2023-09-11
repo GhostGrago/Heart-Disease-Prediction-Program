@@ -1,1 +1,4 @@
-# DSCIproposal
+Introduction:
+Heart disease is the leading cause of death worldwide, accounting for millions of deaths every year. Early diagnosis and treatment of heart disease is crucial to improve patients' outcomes and quality of life. K-Nearest Neighbour (K-NN) Classification can help healthcare professionals more accurately and promptly diagnose heart disease. The question we aimed to answer using our K-NN classification model is whether a patient has heart disease using the patient’s cholesterol levels, age, maximum heart rate they can achieve, and resting blood pressure.
+
+To answer this question, we used the Heart Disease dataset from the UCI Machine Learning Repository, which contains 303 instances and 14 attributes. We selected these predictor variables based on their known associations with heart diseases. According to our research articles, these four attributes have the strongest association with developing heart disease. Other potential predictor variables, such as exercise induced angina and slope of the peak exercise ST segment, were omitted due to their weaker association with heart disease.
